@@ -1,0 +1,22 @@
+{
+  "name": "learning_javascript",
+  "version": "1.0.0",
+  "description": "Basic Ideal Of Learning Javascript From Scratch",
+  "main": "jsBasics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/Learning_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/Learning_javascript/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/Learning_javascript#readme",
+  "dependencies": {
+    "node": "^15.4.0"
+  }
+}
